@@ -1,4 +1,4 @@
-Day 4 cw1 import React, { useState } from 'react';
+import React, { useState } from 'react';
 import { TextField, Autocomplete, Button, Box, Typography } from '@mui/material';
 
 const FruitSurvey = () => {

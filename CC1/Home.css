@@ -1,0 +1,204 @@
+body {
+  /* background-image: url('https://www.theqdev.com/assets/img/blog/How-much-it-would-cost-to-build-a-bus-ticket-booking-mobile-app/Bus-Ticket-Booking-App%E2%80%93How-does-it-work.jpg'); */
+    background-color:rgb(15, 91, 157);
+    width: 100%;
+    font-family: Arial, sans-serif;
+  }
+  .container {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    text-align: center;
+  }
+  #one{
+    display:flex;
+  }
+  #quo{
+    margin-left: 400px;
+    margin-top: 50px;
+    color: #fff;
+    display: flex;
+  }
+  #tit {
+    color:aliceblue;
+    padding: 20px;
+    margin-bottom: 20px;
+  }
+  .div1{
+    background-image: url('https://static.vecteezy.com/system/resources/previews/007/736/958/non_2x/bus-and-the-city-service-graphic-design-illustration-vector.jpg');
+    object-fit:fill;
+    width:1330px;
+    height: 500px;
+    padding: 30px; 
+    border:3px solid rgb(243, 240, 240);
+    border-radius: 5px;
+    /* margin: 20px; */
+    /* background-color:#cfa4c5; */
+
+  }
+  .div2{
+        margin-left:425px;
+        margin-top: 40px;
+        width: 500px;
+        padding: 2px;
+        border:3px solid rgb(248, 253, 255);
+        border-radius: 5px;
+        background-color: rgba(179, 237, 250, 0.1);
+        /* background-color:#9a6493; */
+    
+  }
+  label {
+    display:inline-table;
+    margin: 0px 0;
+    padding:30px;
+    font-size: 16px;
+    color:#030303;
+  } 
+
+  input[type="text"]{
+    width: 100%;
+    padding: 10px;
+    /* margin: 10px 0; */
+    border: 1px solid #000000;
+    border-radius: 4px;
+    box-sizing: border-box;
+  }
+  
+  button {
+    background-color: #4caf50;
+    color: white;
+    padding: 12px 20px;
+    margin-top: 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #45a049;
+  }
+ /* Navigation Menu */
+.nav-menu {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  position: absolute;
+  top: 0;
+  right: 0;
+}
+
+.nav-menu a {
+  text-decoration: none;
+  color: #f5f1f1;
+  margin-top: 30px;
+  font-weight: bold;
+  padding: 10px;
+  display: inline-block;  /* Ensure the padding applies properly */
+}
+
+.nav-menu a:hover {
+  color: #007BFF;
+}
+/* Offers Section */
+.offers-section {
+  margin: 40px auto;  /* Space between sections */
+  padding: 20px;
+  background-color: #f9f9f9;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  width: 80%;
+  text-align: center;
+}
+
+.offers-section h2 {
+  color: #333;
+  font-size: 24px;
+  margin-bottom: 20px;  /* Spacing between heading and offer blocks */
+}
+
+/* Container for offers */
+.offers-container {
+  display: flex;
+  flex-wrap: wrap;  /* Allow items to wrap on smaller screens */
+  justify-content: center;
+  gap: 20px;  /* Spacing between blocks */
+}
+
+/* Individual offer blocks */
+.offer-card {
+  background-color: #e6f7ff;
+  padding: 20px;
+  border: 1px solid #cce7ff;
+  border-radius: 10px;
+  color: #007BFF;
+  font-weight: bold;
+  font-size: 18px;
+  text-align: center;
+  width: 250px;  /* Fixed width for each block */
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  transition: transform 0.2s ease;
+}
+
+.offer-card:hover {
+  transform: scale(1.05);  /* Slight zoom effect on hover */
+}
+contact-section h2 {
+  color: #333;
+  font-size: 24px;
+  margin-bottom: 20px;
+}
+.contact-section {
+  margin: 40px auto;
+  padding: 20px;
+  background-color: #fff;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  width: 80%;
+  text-align: center;
+}
+
+.contact-section h2 {
+  color: #333;
+  font-size: 24px;
+  margin-bottom: 20px;
+}
+
+.contact-section p {
+  font-size: 18px;
+  margin: 10px 0;
+  color: #555;
+}
+
+.contact-section p a {
+  color: #007BFF;
+  text-decoration: none;
+}
+
+.contact-section p a:hover {
+  text-decoration: underline;
+}
+.about-section {
+  margin: 40px auto;
+  padding: 20px;
+  background-color: #fff;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  width: 80%;
+  text-align: center;
+}
+
+.about-section h2 {
+  color: #333;
+  font-size: 24px;
+  margin-bottom: 20px;
+}
+
+.about-section p {
+  font-size: 18px;
+  margin: 10px 0;
+  color: #555;
+}
+  

@@ -1,0 +1,25 @@
+.sty
+{
+    /* background-color:darksalmon; */
+    background-image: url('https://img.freepik.com/premium-photo/blue-touring-coach-with-tinted-windows_641503-349585.jpg' );
+    /* background-position: center; */
+    background-size: cover;
+    padding:100px;
+    color:white;
+}
+.hhh
+{
+    color:black;
+}
+h1{
+    color:aliceblue
+}
+.sty1
+{
+    background-color:hsl(0, 0%, 87%,0.1);
+    padding-bottom: 50px;
+    margin-right:65%;
+    border-radius: 5%;
+    /* margin-left:20%; */
+    border: 8px solid;
+}

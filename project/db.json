@@ -1,0 +1,179 @@
+{
+  "buses": [
+    {
+      "id": "1",
+      "origin": "Coimbatore",
+      "destination": "Chennai",
+      "options": [
+        {
+          "id": 1,
+          "name": "(SBLT) Shri Bhagiyalakshimi Travels (MAARA)",
+          "time": "11:00",
+          "fare": 1000
+        },
+        {
+          "id": 2,
+          "name": "A1 Travels",
+          "time": "10:00",
+          "fare": 800
+        },
+        {
+          "id": 3,
+          "name": "InterCity SmartBus",
+          "time": "19:00",
+          "fare": 950
+        },
+        {
+          "id": 4,
+          "name": "Krish Travels",
+          "time": "20:30",
+          "fare": 1050
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "origin": "Chennai",
+      "destination": "Coimbatore",
+      "options": [
+        {
+          "id": 1,
+          "name": "(SBLT) Shri Bhagiyalakshimi Travels (MAARA)",
+          "time": "11:00",
+          "fare": 1000
+        },
+        {
+          "id": 2,
+          "name": "A1 Travels",
+          "time": "10:00",
+          "fare": 800
+        },
+        {
+          "id": 3,
+          "name": "InterCity SmartBus",
+          "time": "17:00",
+          "fare": 950
+        },
+        {
+          "id": 4,
+          "name": "Krish Travels",
+          "time": "22:00",
+          "fare": 950
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "origin": "Bangalore",
+      "destination": "Mysore",
+      "options": [
+        {
+          "id": 1,
+          "name": "National Travels CHN",
+          "time": "20:00",
+          "fare": 750
+        },
+        {
+          "id": 2,
+          "name": "Krish Travels",
+          "time": "19:00",
+          "fare": 650
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "origin": "Coimbatore",
+      "destination": "bangalore",
+      "options": [
+        {
+          "id": 1,
+          "name": "NO.1 Air Travels",
+          "time": "21:00",
+          "fare": 1000
+        },
+        {
+          "id": 2,
+          "name": "YBM Travels(BLM)",
+          "time": "17:00",
+          "fare": 700
+        },
+        {
+          "id": 3,
+          "name": "InterCity SmartBus",
+          "time": "18:00",
+          "fare": 800
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "origin": "a",
+      "destination": "b",
+      "options": [
+        {
+          "id": 1,
+          "name": "LION Travels",
+          "time": "21:00",
+          "fare": 1000
+        },
+        {
+          "id": 2,
+          "name": "YBM Travels(BLM)",
+          "time": "17:00",
+          "fare": 700
+        },
+        {
+          "id": 3,
+          "name": "Arthi Travel",
+          "time": "18:00",
+          "fare": 800
+        }
+      ]
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "username": "Rithiga",
+      "email": "rithi06@gmail.com",
+      "password": "rithi06"
+    },
+    {
+      "id": "2",
+      "username": "Sheema",
+      "email": "sheema24@gmail.com",
+      "password": "sheema24"
+    },
+    {
+      "id": "3",
+      "username": "Rohith",
+      "email": "rohithhari17@gmail.com",
+      "password": "rohith17"
+    },
+    {
+      "id": "4",
+      "username": "Nisa",
+      "email": "nisa11@gmail.com",
+      "password": "nisa11"
+    },
+    {
+      "id": "e6f0",
+      "username": "sabur",
+      "email": "sabursyed11@gmail.com",
+      "password": "12345"
+    },
+    {
+      "id": "03ee",
+      "username": "vedha",
+      "email": "vedha12@gmail.com",
+      "password": "v-things"
+    },
+    {
+      "id": "9ff9",
+      "username": "Kavya",
+      "email": "kavya02@gmail.com",
+      "password": "Bolu02"
+    }
+  ]
+}

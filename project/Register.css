@@ -1,0 +1,24 @@
+.styy
+{
+    /* background-color:darksalmon; */
+    background-image: url('https://img.freepik.com/premium-photo/bus-road_1021598-31566.jpg' );
+    /* background-position: center; */
+    background-size: cover;
+    padding:100px;
+    color:white;
+}
+.hhhh
+{
+    color:rgb(255, 255, 255);
+}
+.sty11
+{
+    background-color:rgb(15, 91, 157,0.1);
+    /* margin-top: 10%; */
+    padding-bottom: 50px;
+    margin-right:65%;
+    border-radius: 5%;
+    border-spacing: 40%;
+    /* margin-left:20%; */
+    border: 8px solid white;
+}
